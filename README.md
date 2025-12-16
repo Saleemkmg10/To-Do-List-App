@@ -20,7 +20,7 @@ This app allows users to manage their tasks with a sleek Batman-themed UI and ad
 ## Getting Started
 
 1. Clone the repository  
-   `git clone https://github.com/ManojAcharya08/To-Do-List-App.git`
+   `git clone https://github.com/Saleemkmg10/To-Do-List-App.git`
 
 2. Run the backend (Spring Boot)  
    Navigate to backend folder and run:  
